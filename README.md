@@ -13,7 +13,7 @@ communicate its output artifacts to a specific target.
 
 #### Subclass Strategy
 
-Using ES6 syntax, define a new `AcmeProvider` implementation class which extends from `Provider`:
+Using ES6 syntax, define a new example `AcmeProvider` implementation class which extends from `Provider`:
 
 ```javascript
 'use strict';

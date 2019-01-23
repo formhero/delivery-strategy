@@ -1,0 +1,19 @@
+{
+  "name": "delivery-strategy",
+  "version": "0.0.1",
+  "description": "An abstract class implementing FormHero's Delivery Service provider strategy API.",
+  "keywords": [
+    "delivery",
+    "strategy"
+  ],
+  "author": {
+    "url": "http://www.formhero.io"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/formhero/delivery-strategy.git"
+  },
+  "main": "./lib",
+  "dependencies": {}
+}

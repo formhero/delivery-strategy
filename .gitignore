@@ -1,0 +1,11 @@
+node_modules
+.idea/*
+**/*.log
+coverage/
+shippable/
+*.sw?
+.npmrc
+.nyc_output
+*.orig
+local-config.json
+.DS_Store
